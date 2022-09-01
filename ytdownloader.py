@@ -10,10 +10,12 @@ print("""
  ██  ██  ████  ████ ██   ██ 
   ████   ██ ████ ██ ██   ██ 
    ██    ██  ██  ██ ██   ██ 
-   ██    ██      ██ ██████
+   ██    ██      ██ ██████ 
 
   Youtube Music Downloader
-    By: Raphael Fiorin                                        
+    By: Raphael Fiorin
+    
+GIT: https://github.com/raphaelfiorin/ytdownloader
 """)
 
 menu = int(input("""
