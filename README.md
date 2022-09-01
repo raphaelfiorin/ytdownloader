@@ -5,7 +5,7 @@
 - [x] Download Video 
 - [x] Download Playlist
 - [x] Convert MP4 to MP3
-- [x] All
+- [x] Download Playlist and Convert to MP3
 
 ## 📫 Contribuindo com o YTDOWNLOADER:
 Para contribuir com WALTER, siga estas etapas:
