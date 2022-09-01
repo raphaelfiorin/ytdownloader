@@ -8,7 +8,7 @@
 - [x] Download Playlist and Convert to MP3
 
 ## 📫 Contribuindo com o YTDOWNLOADER:
-Para contribuir com WALTER, siga estas etapas:
+Para contribuir com YTDOWNLOADER, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
