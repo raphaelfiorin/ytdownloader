@@ -4,8 +4,12 @@
 
 - [x] Download Video 
 - [x] Download Playlist
+- [x] Download MP3
 - [x] Convert MP4 to MP3
-- [x] Download Playlist and Convert to MP3
+- [X] GUI - TKINTER
+- [X] Log Viewer
+
+
 
 ## 📫 Contribuindo com o YTDOWNLOADER:
 Para contribuir com YTDOWNLOADER, siga estas etapas:
